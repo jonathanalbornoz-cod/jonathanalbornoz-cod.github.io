@@ -1,2 +1,5 @@
-# jonathanalbornoz-cod.github.io
-creación de páginas web por parte de Jonathan y Javier 2026
+# Jonathan Alexander Albornoz Zúñiga
+
+Landing page: creación de páginas web desde cero.
+
+Sitio publicado: https://jonathanalbornoz-cod.github.io/
